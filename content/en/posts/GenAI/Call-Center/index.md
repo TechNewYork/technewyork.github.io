@@ -1,6 +1,5 @@
 +++
 date = '2025-06-08T14:50:49-04:00'
-draft = true
 title = 'Call Center Optimization with Agentic AI'
 +++
 

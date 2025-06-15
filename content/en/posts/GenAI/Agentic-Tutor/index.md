@@ -1,6 +1,5 @@
 +++
 date = '2025-06-08T14:56:49-04:00'
-draft = true
 title = 'Interactive AI Tutor'
 +++
 

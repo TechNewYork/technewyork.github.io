@@ -1,6 +1,5 @@
 +++
 date = '2025-06-08T14:49:58-04:00'
-draft = true
 title = 'Best Practices for Cloud Migration '
 +++
 

@@ -1,6 +1,5 @@
 +++
 date = '2025-06-08T15:33:01-04:00'
-draft = true
 title = 'How Generative AI is changing the legal support system for common man'
 +++
 
